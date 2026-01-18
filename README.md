@@ -2,7 +2,7 @@
 
 I’m a BSIT student and an aspiring software developer.  
 I love building things—desktop apps, web apps, and now exploring backends like Firebase.  
-I enjoy experimenting and learning by doing, and I like sharing what I build here on GitHub.
+I enjoy experimenting and learning by doing, and I like sharing what I build.
 
 ---
 
@@ -24,7 +24,7 @@ Here are some of the technologies I work with or am learning:
 
 - **ShopEase** – A simple online shopping system with login, cart, and billing features.
 - **UniLibrary** - A library management system with borrow, return, and real-time book availability displays.
-- **MAS-SMP Portal** - A ministry portal with scheduling, announcements, user profile features.
+- **MAS-SMP Portal** - A ministry portal with scheduling, announcements, and user profile features.
 - **Login & Registration System** – A desktop WinForms app with animations and validations.  
 - **Firebase Practice** – Small projects where I’m exploring backend functionality with Firebase.
 
