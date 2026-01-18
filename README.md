@@ -1,13 +1,14 @@
-# Hi there, I'm Jade 👋
+# Hey, I’m Jade ツ
 
-I’m a BSIT student and an aspiring software developer exploring new technologies.  
-I love building things—desktop apps, web apps, and now experimenting with backends like Firebase.  
+I’m a BSIT student and an aspiring software developer.  
+I love building things—desktop apps, web apps, and now exploring backends like Firebase.  
+I enjoy experimenting and learning by doing, and I like sharing what I build here on GitHub.
 
 ---
 
-## 🔧 What I Work With
+## A Little About the Tools I Use
 
-Here are some of the tools and technologies I use or am exploring:
+Here are some of the technologies I work with or am learning:
 
 ![VB.NET](https://img.shields.io/badge/VB.NET-purple) 
 ![PHP](https://img.shields.io/badge/PHP-blue) 
@@ -19,28 +20,30 @@ Here are some of the tools and technologies I use or am exploring:
 
 ---
 
-## 🚀 Projects I’ve Built
+## Things I’ve Built
 
-- **ShopEase** – A simple online shopping system with login, cart, and billing features.  
+- **ShopEase** – A simple online shopping system with login, cart, and billing features.
+- **UniLibrary** - A library management system with borrow, return, and real-time book availability displays.
+- **MAS-SMP Portal** - A ministry portal with scheduling, announcements, user profile features.
 - **Login & Registration System** – A desktop WinForms app with animations and validations.  
-- **Firebase Practice Repository** – Small experiments exploring backend functionalities with Firebase.
+- **Firebase Practice** – Small projects where I’m exploring backend functionality with Firebase.
 
 ---
 
-## 📈 What I’m Learning
+## What I’m Exploring Right Now
 
-- Exploring **Firebase** as a backend for apps  
-
-I enjoy learning by experimenting, so expect small projects and experiments popping up here regularly!  
-
----
-
-## 🎯 My Goal
-
-To grow as a software developer who can build reliable and efficient applications, and continue exploring modern technologies like Firebase to bring ideas to life.  
+- Learning how to use **Firebase** for app backends  
+- Trying out new ways to make apps more reliable and efficient  
 
 ---
 
-## 📫 Connect With Me
+## My Goal
+
+I want to grow as a software developer who can build apps that just work—reliable, useful, and easy to maintain.  
+I also hope to keep learning new technologies and experimenting with ideas that excite me.
+
+---
+
+## Let’s Connect
 
 - GitHub: [https://github.com/Jadeeeshh](https://github.com/Jadeeeshh)
