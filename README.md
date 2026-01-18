@@ -1,16 +1,13 @@
-# Hi, I'm Jade 👋
+# Hi there, I'm Jade 👋
 
-🚀 **Aspiring DevOps Engineer**  
-🎓 **BSIT Student | Aspiring Software Developer**
-
-I am a BSIT student with a background in desktop and web
-application development, currently transitioning into DevOps.
-I am passionate about automation, CI/CD pipelines, and building
-reliable and scalable systems.
+I’m a BSIT student and an aspiring software developer exploring new technologies.  
+I love building things—desktop apps, web apps, and now experimenting with backends like Firebase.  
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🔧 What I Work With
+
+Here are some of the tools and technologies I use or am exploring:
 
 ![VB.NET](https://img.shields.io/badge/VB.NET-purple) 
 ![PHP](https://img.shields.io/badge/PHP-blue) 
@@ -22,43 +19,28 @@ reliable and scalable systems.
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects I’ve Built
 
-### 🛒 ShopEase
-Online shopping system with authentication, cart, and billing features.  
-
-![ShopEase Screenshot](assets/shopease.png)  
-> Replace `assets/shopease.png` with your actual screenshot file.
+- **ShopEase** – A simple online shopping system with login, cart, and billing features.  
+- **Login & Registration System** – A desktop WinForms app with animations and validations.  
+- **Firebase Practice Repository** – Small experiments exploring backend functionalities with Firebase.
 
 ---
 
-### 🔐 Login & Registration System
-VB.NET WinForms application with animations and validation.  
+## 📈 What I’m Learning
 
-![Login System Screenshot](assets/login.png)  
-> Replace `assets/login.png` with your actual screenshot file.
+- Exploring **Firebase** as a backend for apps  
 
----
-
-### ⚙️ CI/CD Practice Repository
-Automated workflows using GitHub Actions to build and test projects.  
-
-![CI/CD Screenshot](assets/cicd.png)  
-> Replace `assets/cicd.png` with a screenshot of your workflow run.
+I enjoy learning by experimenting, so expect small projects and experiments popping up here regularly!  
 
 ---
 
-## 📈 Currently Learning
-- CI/CD pipeline automation  
-- Exploring Firebase for app backend services
+## 🎯 My Goal
 
----
-
-## 🎯 Career Goal
-To grow as a DevOps Engineer by combining software development
-skills with automation and infrastructure best practices.
+To grow as a software developer who can build reliable and efficient applications, and continue exploring modern technologies like Firebase to bring ideas to life.  
 
 ---
 
 ## 📫 Connect With Me
+
 - GitHub: [https://github.com/Jadeeeshh](https://github.com/Jadeeeshh)
