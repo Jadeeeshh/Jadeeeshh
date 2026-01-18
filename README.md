@@ -18,23 +18,33 @@ reliable and scalable systems.
 ![HTML](https://img.shields.io/badge/HTML-orange) 
 ![CSS](https://img.shields.io/badge/CSS-blueviolet) 
 ![MySQL](https://img.shields.io/badge/MySQL-orange) 
-![MS Access](https://img.shields.io/badge/MS_Access-red) 
-![Git](https://img.shields.io/badge/Git-orange) 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28)
 
 ---
 
 ## 🚀 Projects
 
-- 🛒 **ShopEase**  
-  Online shopping system with authentication, cart, and billing features.
+### 🛒 ShopEase
+Online shopping system with authentication, cart, and billing features.  
 
-- 🔐 **Login & Registration System**  
-  VB.NET WinForms application with animations and validation.
+![ShopEase Screenshot](assets/shopease.png)  
+> Replace `assets/shopease.png` with your actual screenshot file.
 
-- ⚙️ **CI/CD Practice Repository**  
-  Automated workflows using GitHub Actions to build and test projects.
+---
+
+### 🔐 Login & Registration System
+VB.NET WinForms application with animations and validation.  
+
+![Login System Screenshot](assets/login.png)  
+> Replace `assets/login.png` with your actual screenshot file.
+
+---
+
+### ⚙️ CI/CD Practice Repository
+Automated workflows using GitHub Actions to build and test projects.  
+
+![CI/CD Screenshot](assets/cicd.png)  
+> Replace `assets/cicd.png` with a screenshot of your workflow run.
 
 ---
 
@@ -52,4 +62,3 @@ skills with automation and infrastructure best practices.
 
 ## 📫 Connect With Me
 - GitHub: [https://github.com/Jadeeeshh](https://github.com/Jadeeeshh)
-
