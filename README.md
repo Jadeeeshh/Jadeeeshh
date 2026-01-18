@@ -22,7 +22,7 @@ Here are some of the technologies I use or am learning:
 
 ## Projects I’ve Built
 
-- **ShopEase** – An online shopping system with login, cart, and billing features.
+- **ShopEase** – An online shopping system with admin and shop dashboard, product catalog, as well as add-to-cart and checkout features.
 - **UniLibrary** – A library management system with borrow, return, and real-time book availability displays.
 - **MAS-SMP Portal** – A ministry portal with scheduling, announcements, and user profiles.
 - **Login & Registration System** – A desktop WinForms app with animations and validations.  
